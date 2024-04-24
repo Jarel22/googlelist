@@ -17082,7 +17082,6 @@ DOMAIN-SUFFIX,ciscoconnectcloud.net
 DOMAIN-SUFFIX,uyghur-j.org
 DOMAIN-SUFFIX,youtube.iq
 DOMAIN-SUFFIX,coinrail.co.kr
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bkkdown.site
 DOMAIN-SUFFIX,google.no
 DOMAIN-SUFFIX,facebookmanager.info
